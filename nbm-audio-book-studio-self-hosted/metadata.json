@@ -1,0 +1,6 @@
+{
+  "name": "NBM Audio & Book Studio",
+  "description": "Creative Literature Workstation for world literature, translation, OCR, audiobook production, book reviews, and audio/video studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["SELF_HOSTED_NODE_API", "LOCAL_AUDIO_VIDEO_TOOLS", "OPTIONAL_SERVER_SIDE_AI"]
+}
